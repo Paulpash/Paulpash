@@ -2,28 +2,26 @@
 - 👀 I’m interested in cybersecurity.
 - 📫 
 Cybersecurity-Portfolio
-│
-├── README.md
-│
-├── SOC-Investigations
-│   ├── 01-Brute-Force-Investigation
-│   ├── 02-Phishing-Investigation
-│   ├── 03-Suspicious-PowerShell
-│   └── 04-Malware-Investigation
-│
-├── SIEM
-│   ├── Microsoft-Sentinel
-│   └── Splunk
-│
-├── Network-Security
-│   ├── Wireshark
-│   └── Nmap
-│
-├── Linux
-│
-├── Windows-Security
-│
-└── Python
+README.md
+
+SOC-Investigations
+
+    01-Brute-Force-Investigation   
+    02-Phishing-Investigation
+    03-Suspicious-PowerShell
+    04-Malware-Investigation
+
+ SIEM
+     Microsoft-Sentinel
+     Splunk
+
+ Network-Security
+    Wireshark
+    Nmap
+
+    Linux
+    Windows-Security
+    Python
 
 
 
