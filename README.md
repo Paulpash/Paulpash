@@ -1,4 +1,4 @@
-- 👋 Hi, I’m currently a student
+- 👋 Hi, I’m currently a SOC L1
 - 👀 I’m interested in cybersecurity.
 - 📫 
 Cybersecurity-Portfolio
